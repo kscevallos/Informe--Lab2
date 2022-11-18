@@ -32,3 +32,9 @@ Circuito simulado en Tinkercad con valores
 Valores Teóricos
 
 https://github.com/kscevallos/Informe--Lab2/blob/main/README.md
+
+5. RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
+
+Circuito mixto  propuesto 
+
+![image](https://user-images.githubusercontent.com/116834366/202779805-3f6d7691-f51c-4e8d-9868-3d6bf678ade2.png)

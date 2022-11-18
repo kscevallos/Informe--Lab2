@@ -15,3 +15,14 @@ Analizar la teoría, formulas y leyes que nos permita calcular las corrientes, e
 
 ![image](https://user-images.githubusercontent.com/116834366/202751312-84c39d2c-46b5-421a-b49e-0772d7910152.png)
 
+3. MATERIAL Y  EQUIPO REQUERIDO
+
+ ![image](https://user-images.githubusercontent.com/116834366/202754114-cd37e371-7c2d-40ac-a140-5980d918a0b7.png)
+
+4. EXPLICACIÓN DE PROCEDIMIENTO
+
+Circuito mixto físico
+
+![image](https://user-images.githubusercontent.com/116834366/202758269-a775fed5-8101-4d10-a4af-3e75b39ab89c.png)
+
+

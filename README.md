@@ -25,4 +25,7 @@ Circuito mixto físico
 
 ![image](https://user-images.githubusercontent.com/116834366/202758269-a775fed5-8101-4d10-a4af-3e75b39ab89c.png)
 
+Circuito simulado en Tinkercad con valores 
+
+![image](https://user-images.githubusercontent.com/116834366/202761311-1befc260-41a7-4b14-ba13-466cc4b5a976.png)
 

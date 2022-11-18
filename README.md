@@ -29,3 +29,6 @@ Circuito simulado en Tinkercad con valores
 
 ![image](https://user-images.githubusercontent.com/116834366/202761311-1befc260-41a7-4b14-ba13-466cc4b5a976.png)
 
+Valores Teóricos
+
+https://github.com/kscevallos/Informe--Lab2/blob/main/README.md

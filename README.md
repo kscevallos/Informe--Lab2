@@ -38,3 +38,22 @@ https://github.com/kscevallos/Informe--Lab2/blob/main/README.md
 Circuito mixto  propuesto 
 
 ![image](https://user-images.githubusercontent.com/116834366/202779805-3f6d7691-f51c-4e8d-9868-3d6bf678ade2.png)
+ 
+5.1. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
+
+5.2. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
+
+5.3. Compare los valores de la tabla 2.1 y realice sus conclusiones.
+
+![image](https://user-images.githubusercontent.com/116834366/202837019-e864f95a-85e6-4412-ac93-19ac91de97df.png)
+
+Calcular errores de las mediciones y comentar los resultados.
+
+Porcentaje de error respecto a la simulación en Tinkercad
+
+![image](https://user-images.githubusercontent.com/116834366/202837043-4aaa8019-f4d7-41f2-8804-bd955b66eeac.png)
+
+Porcentaje de error respecto a experimento físico
+
+![image](https://user-images.githubusercontent.com/116834366/202837054-b38e6a53-5082-4929-96a3-d31258fadc9f.png)
+

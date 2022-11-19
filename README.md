@@ -57,3 +57,14 @@ Porcentaje de error respecto a experimento físico
 
 ![image](https://user-images.githubusercontent.com/116834366/202837054-b38e6a53-5082-4929-96a3-d31258fadc9f.png)
 
+6. VIDEO
+
+8. CONCLUSIONES
+
+Se puede decir que mediante la ley de Kirchhoff se puede obtener valores bastante cercanos a los exactos realizados por la simulación, entonces, existe cierto porcentaje de error en las medidas obtenidas, sin embargo, el método es bastante certero manteniendo su grado de confiabilidad ya que el porcentaje de error no supera el 10%, lo cual podemos aclarar que es una ley que ha perdurado por años para realizar esta comprobación.
+
+9. BIBLIOGRAFÍAS
+
+Floyd, T. (2007). Principios de circuitos eléctricos. (8va edición). PEARSON EDUCACIÓN, S.A.
+
+Méndez, L. (2020). Ley de Kirchhoff: Análisis de mallas. Hetpro. https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/

@@ -57,6 +57,8 @@ Porcentaje de error respecto a experimento físico
 
 6. VIDEO
 
+https://youtu.be/T4fn__X__OA
+
 8. CONCLUSIONES
 
 Se puede decir que mediante la ley de Kirchhoff se puede obtener valores bastante cercanos a los exactos realizados por la simulación, entonces, existe cierto porcentaje de error en las medidas obtenidas, sin embargo, el método es bastante certero manteniendo su grado de confiabilidad ya que el porcentaje de error no supera el 10%, lo cual podemos aclarar que es una ley que ha perdurado por años para realizar esta comprobación.
